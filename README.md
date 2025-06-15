@@ -1,5 +1,25 @@
 # BST-C
 
+          XXXXX          
+          X   X          
+          X   X          
+          XXXXX          
+         X     X         
+        X       X        
+       X         X       
+     XXXXX     XXXXX     
+     X   X     X   X     
+     X   X     X   X     
+     XXXXX     XXXXX     
+    X     X         X    
+   X       X         X   
+  X         X         X  
+XXXXX     XXXXX     XXXXX
+X   X     X   X     X   X
+X   X     X   X     X   X
+XXXXX     XXXXX     XXXXX
+
+
 # Binary Search Tree Table Implementation 🌳
 
 [![C Standard](https://img.shields.io/badge/C-23-blue)]()
