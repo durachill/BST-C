@@ -2,7 +2,7 @@
 
 # Binary Search Tree Table Implementation 🌳
 
-[![C Standard](https://img.shields.io/badge/C-17-blue)]()
+[![C Standard](https://img.shields.io/badge/C-23-blue)]()
 [![License](https://img.shields.io/badge/License-MIT-green)]()
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
 
